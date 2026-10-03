@@ -124,15 +124,15 @@ Floppy256 works with a wide range of microcontrollers through the standard I²C 
 
 <img width="1199" height="1286" alt="RPI_Pico" src="https://github.com/user-attachments/assets/82848b34-5f4a-4016-9b77-f342b84a86bc" />
 
-## Floppy256 connected to Raspberry Pi Pico
+Floppy256 connected to Raspberry Pi Pico
 
 <img width="867" height="793" alt="STM32_Bluepill" src="https://github.com/user-attachments/assets/17db4517-8372-464b-8661-40e35703e458" />
 
-## Floppy256 connected to STM32 Bluepill
+Floppy256 connected to STM32 Bluepill
 
 <img width="3120" height="3920" alt="ESP32" src="https://github.com/user-attachments/assets/76e014cd-4b12-40eb-b1e3-a38097144165" />
 
-## Floppy256 connected to ESP32 Development Boards
+Floppy256 connected to ESP32 Development Boards
 
 
 
