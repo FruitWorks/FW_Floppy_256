@@ -4,7 +4,7 @@
 |---|---|---|
 | SDA | I2C data | Onboard 4.7kΩ pull-up |
 | SCL | I2C clock | Onboard 4.7kΩ pull-up |
-| VCC | Power | __ V range |
+| VCC | Power | 3.3 to 5V |
 | GND | Ground | |
 
 ## I2C Address
