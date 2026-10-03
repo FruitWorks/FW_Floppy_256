@@ -6,6 +6,9 @@ Made by [FruitWorks](#).
 
 ![Floppy256](https://github.com/user-attachments/assets/4fb0afd0-9ba6-4024-9965-b57a5103d7a0)
 
+<img width="1723" height="965" alt="floppyrear" src="https://github.com/user-attachments/assets/a2372e47-2a81-4f66-b33d-1b80e0c999a5" />
+
+
 ## What it is
 
 Floppy256 is a small I²C EEPROM module inspired by the classic 3.5" floppy disk and the familiar save icon.
