@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For FruitWorks Floppy256
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Floppy256	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+isConnected	KEYWORD2
+writeByte	KEYWORD2
+readByte	KEYWORD2
+writeBlock	KEYWORD2
+readBlock	KEYWORD2
+length	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+FLOPPY256_I2C_ADDRESS	LITERAL1
+FLOPPY256_SIZE_BYTES	LITERAL1
+FLOPPY256_PAGE_SIZE	LITERAL1
