@@ -30,7 +30,7 @@ It uses a 256Kbit EEPROM and provides a simple four-pin I²C interface for addin
 | EEPROM Supply Voltage | 1.7V–5.5V |
 | Pinout | SDA, SCL, VCC, GND |
 
-The EEPROM address is determined by A0/A1/A2. In the current Floppy256 hardware design, these pins are tied low, giving a default address of `0x50`.
+The EEPROM address is determined by A0/A1/A2. In the current Floppy256 hardware design, these pins are tied low, giving a default address of `0x57`.
 
 For a 3.3V microcontroller, power the module from 3.3V. For a 5V system, power it from 5V. The host MCU I²C logic level should match the module supply voltage.
 
