@@ -9,9 +9,7 @@
 
 ## I2C Address
 
-<!-- Fill in based on A0/A1/A2 strapping on the actual shipped board -->
-
-Address: `0x__`
+Address: `0x57`
 
 ## Example wiring (Raspberry Pi Pico / RP2040)
 
@@ -20,6 +18,6 @@ Address: `0x__`
 | GPIO__ | SDA |
 | GPIO__ | SCL |
 | GND | GND |
-| __ | VCC |
+| 3V3_OUT | VCC |
 
 <!-- Note which I2C hardware block (I2C0/I2C1) these GPIOs belong to -->
